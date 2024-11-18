@@ -1,0 +1,27 @@
+[BR_Dados_Consumo_Mensal_2004-2024]
+https://www.epe.gov.br/pt/publicacoes-dados-abertos/dados-abertos/dados-do-consumo-mensal-de-energia-elétrica
+
+
+[MA_Tetouan_Power_Consumption_2016-2017]
+https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption
+
+[GLOBAL_Electric_Power_Consumption_2006-2010]
+https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
+
+[BR_Geracao_Distribuida_Energia_2008-2020]
+https://www.kaggle.com/datasets/dennisferreira/empreendimentos-de-geracao-distribuida-de-energia
+
+[BR_Empreendimento_Geracao_Energia_2001-2024]
+https://dados.gov.br/dados/conjuntos-dados/empreendimentos-em-operacao1
+
+[BR_Dados_Anuario_Estatistico_Energia_Eletrica_2014-2023]
+https://www.epe.gov.br/pt/publicacoes-dados-abertos/dados-abertos/dados-do-anuario-estatistico-de-energia-elétrica
+
+[BR_Historico_Meteorologia_2004 - BR_Historico_Meteorologia_2024]
+https://portal.inmet.gov.br/dadoshistoricos
+
+[BR_Populacao_Residente_Economicamente_Ativa_PIB_2000-2023]
+https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/indicadores/paginas/dados-socioeconomicos/tabelas/10-1-populacao-residente-populacao-economicamente-ativa-pea-pessoas-ocupadas-produto-interno-bruto-pib-e-fator-de-conversao-para-paridade-do-poder-de-compra-ppc
+
+[BR_Feriados_Nacionais_2001-2099]
+https://www.anbima.com.br/feriados/arqs/feriados_nacionais.xls
