@@ -1,2 +1,3 @@
 datasets/*
+raw-data/
 !datasets/.dataset-links.txt
